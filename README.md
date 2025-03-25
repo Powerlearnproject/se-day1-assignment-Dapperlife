@@ -5,19 +5,18 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Software engineering is the application of engineering principles and techniques to the design, development, testing, and maintenance of software systems.Imagine building a robot  or creating an app like Instagram! It involves a systematic approach to software development, ensuring that software is reliable, efficient, and meets the requirements of its users.
+Software Engineering ia an engineering branch associated with development of software products using well-defined scientific principles, methods and procedures . The outcome of software engineering is an efficient and reliable software products
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-Software Engineering is all about:
-🔹 Writing instructions (called code) for computers.
-🔹 Building apps, games, and websites that make our lives easier.
-🔹 Solving real-world problems through technology.
+Analysis
+Design
+Implementation
 
 List and briefly explain the phases of the Software Development Life Cycle.
-Design apps and systems that users love. 📱
-Write code that makes things work smoothly. 👨‍💻
-Test and fix bugs (nobody likes bugs 🐛 in their apps, right?).
-Collaborate with a team to create amazing stuff. 🤝
+User Needs and Expectations
+Transformation 1 ( Analysis)-Problem Statement
+Transformation 2 ( Design)- Detailed Design
+Transformation 3 ( Implementation)-Software Product
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall Methodology
